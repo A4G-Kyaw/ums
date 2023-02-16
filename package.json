@@ -1,0 +1,20 @@
+{
+  "name": "ums",
+  "version": "1.0.0",
+  "description": "User Management System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A4G-Kyaw/ums.git"
+  },
+  "author": "A4G-Kyaw (Aung Kyaw Kyaw)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A4G-Kyaw/ums/issues"
+  },
+  "homepage": "https://github.com/A4G-Kyaw/ums#readme"
+}
